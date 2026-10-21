@@ -43,6 +43,16 @@ heart-disease-prediction/
 | `requirements.txt` | Python package dependencies |
 | `.gitignore` | Files and folders Git should ignore |
 
+## 🚀 Live Demo
+
+Try the Heart Disease Prediction application online using Streamlit.
+
+**🔗 Live App:** [HeartCare AI Predictor](https://heartcare-ai-predictor.streamlit.app/)
+
+**Tech Stack:** Python | KNN | Scikit-learn | Streamlit
+
+> ⚠️ **Disclaimer:** This application is developed for educational purposes only and is not intended for medical diagnosis.
+
 ## How to Run Locally
 
 ### 1. Clone the repository
